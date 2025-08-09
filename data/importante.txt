@@ -1,0 +1,4 @@
+Este directorio al ejecutar los contenedores 
+contiene los enlaces a los datos de bases de datos y configuraciones en general.
+Esto para no perder los datos de funcionamiento al eliminar imágenes e incluso volúmenes.
+Por defecto está vacio y se deja este archivo para que el git guarde el directorio.
